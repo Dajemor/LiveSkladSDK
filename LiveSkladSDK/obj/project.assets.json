@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dajem\\source\\repos\\LiveSkladSDK\\LiveSkladSDK\\LiveSkladSDK.csproj",
+      "projectUniqueName": "C:\\Users\\dajem\\source\\repos\\Ceh_phone_bot\\LiveSkladSDK\\LiveSkladSDK\\LiveSkladSDK.csproj",
       "projectName": "LiveSkladSDK",
-      "projectPath": "C:\\Users\\dajem\\source\\repos\\LiveSkladSDK\\LiveSkladSDK\\LiveSkladSDK.csproj",
+      "projectPath": "C:\\Users\\dajem\\source\\repos\\Ceh_phone_bot\\LiveSkladSDK\\LiveSkladSDK\\LiveSkladSDK.csproj",
       "packagesPath": "C:\\Users\\dajem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dajem\\source\\repos\\LiveSkladSDK\\LiveSkladSDK\\obj\\",
+      "outputPath": "C:\\Users\\dajem\\source\\repos\\Ceh_phone_bot\\LiveSkladSDK\\LiveSkladSDK\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

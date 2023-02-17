@@ -9,6 +9,7 @@ namespace LiveSkladSDK
 
         [JsonPropertyName("password")]
         public string password { get; set; }
+
     
     }
 }

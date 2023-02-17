@@ -10,3 +10,14 @@ C:\Users\dajem\source\repos\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkl
 C:\Users\dajem\source\repos\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.dll
 C:\Users\dajem\source\repos\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\ref\LiveSkladSDK.dll
 C:\Users\dajem\source\repos\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.pdb
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\bin\Release\net6.0\LiveSkladSDK.deps.json
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\bin\Release\net6.0\LiveSkladSDK.dll
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\bin\Release\net6.0\ref\LiveSkladSDK.dll
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\bin\Release\net6.0\LiveSkladSDK.pdb
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.AssemblyInfoInputs.cache
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.AssemblyInfo.cs
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.csproj.CoreCompileInputs.cache
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.dll
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\ref\LiveSkladSDK.dll
+C:\Users\dajem\source\repos\Ceh_phone_bot\LiveSkladSDK\LiveSkladSDK\obj\Release\net6.0\LiveSkladSDK.pdb
